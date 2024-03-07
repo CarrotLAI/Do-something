@@ -1,2 +1,2 @@
 # Do-something
-Testing public API
+A simple random to do generator with the help of public API 
